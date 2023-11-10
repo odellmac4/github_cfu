@@ -3,3 +3,4 @@
 `git status`
 `git add`
 `git commit -m "Message here"`
+`git ls -a`
